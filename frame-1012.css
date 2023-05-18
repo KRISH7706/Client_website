@@ -1,0 +1,247 @@
+.gradient-footer-icon1,
+.projects-child {
+  position: absolute;
+  height: 52.22%;
+  width: 100%;
+  top: 4%;
+  right: 0;
+  bottom: 43.78%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gradient-footer-icon1 {
+  height: 43.73%;
+  top: 55.14%;
+  bottom: 1.13%;
+}
+.i-am-immensely {
+  margin: 0;
+}
+.i-am-immensely-container {
+  display: inline-block;
+}
+.frame-wrapper,
+.i-am-immensely-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1235px;
+  height: 1047px;
+}
+.projects-inner {
+  top: 1103px;
+  left: 61px;
+  width: 1235px;
+  height: 1047px;
+  color: var(--color-gray-200);
+}
+.next,
+.pages1,
+.projects-inner {
+  position: absolute;
+}
+.next {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pages1 {
+  height: 1.73%;
+  width: 15.45%;
+  top: 93.1%;
+  right: 5.12%;
+  bottom: 5.18%;
+  left: 79.43%;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+}
+.rectangle-icon10 {
+  position: absolute;
+  top: 259px;
+  left: 25px;
+  border-radius: var(--br-xl);
+  width: 827px;
+  height: 622px;
+  object-fit: cover;
+}
+.made-by-dranzer-container2 {
+  position: absolute;
+  height: 3.37%;
+  width: 22.11%;
+  top: 96.63%;
+  left: 73.72%;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  font-weight: 700;
+  color: var(--color-darkslategray);
+  text-align: right;
+}
+.lakshminarayana {
+  position: relative;
+  font-weight: 600;
+}
+.in2 {
+  position: relative;
+  font-size: var(--heading-4-size);
+  display: inline-block;
+  color: var(--color-blueviolet);
+  width: 48px;
+  height: 27px;
+  flex-shrink: 0;
+}
+.logo2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  cursor: pointer;
+}
+.logo-container {
+  position: absolute;
+  top: 16px;
+  left: 62px;
+  width: 383px;
+  height: 54px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-midnightblue);
+}
+.projects3 {
+  position: absolute;
+  width: 14.29%;
+  top: 5.88%;
+  left: 55.29%;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+}
+.about-me5 {
+  height: 82.35%;
+  width: 16.97%;
+  top: 5.88%;
+  left: 0;
+}
+.about-me5,
+.other-works2,
+.publication2 {
+  position: absolute;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.publication2 {
+  height: 82.35%;
+  width: 20%;
+  top: 5.88%;
+  left: 27.06%;
+}
+.other-works2 {
+  width: 22.35%;
+  top: 0;
+  left: 77.65%;
+  color: var(--color-black);
+}
+.projects-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-div {
+  position: absolute;
+  top: 26px;
+  left: 511px;
+  width: 611px;
+  height: 34px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-darkslategray);
+}
+.connect-with-me2 {
+  position: relative;
+  text-transform: capitalize;
+}
+.nav-cta2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-royalblue-100);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-mid);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.nav-cta-frame {
+  position: absolute;
+  top: 15px;
+  left: 1150.5px;
+  width: 192px;
+  height: 47px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.publications1 {
+  position: absolute;
+  width: 19.4%;
+  top: 5.37%;
+  left: 4.83%;
+  font-size: var(--font-size-31xl);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.revolutionizing-the-future-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group-wrapper {
+  position: absolute;
+  top: 909px;
+  left: 65px;
+  width: 1231px;
+  height: 213px;
+  font-size: 46px;
+  color: var(--kepler);
+  font-family: var(--font-merriweather);
+}
+.projects2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1366px;
+  height: 2550px;
+}
+.projects-root {
+  position: relative;
+  width: 100%;
+  height: 2550px;
+  text-align: left;
+  font-size: 30px;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

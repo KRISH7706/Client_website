@@ -1,0 +1,484 @@
+.gradient-footer-icon {
+  position: absolute;
+  height: 43.73%;
+  width: 100%;
+  top: 56.56%;
+  right: 0.07%;
+  bottom: -0.29%;
+  left: -0.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.work {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.home-parent {
+  position: absolute;
+  top: 26px;
+  left: 851px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  font-size: var(--heading-4-size);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-work-sans);
+}
+.navbar-rectangle,
+.navbar-rectangle-wrapper {
+  position: absolute;
+  top: 0;
+  width: 1363px;
+  height: 86px;
+}
+.navbar-rectangle {
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 4px 6px 13px rgba(215, 215, 215, 0.25);
+}
+.navbar-rectangle-wrapper {
+  left: 2px;
+}
+.backgroundhero-gradienttop-icon,
+.backgroundhero-gradienttop-icon1 {
+  position: absolute;
+  height: 52.22%;
+  width: 94.86%;
+  top: 4.5%;
+  right: 2.65%;
+  bottom: 43.28%;
+  left: 2.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.backgroundhero-gradienttop-icon1 {
+  height: 90.04%;
+  width: 100%;
+  top: 4.42%;
+  right: 0.07%;
+  bottom: 5.55%;
+  left: -0.07%;
+}
+.about-me-wrapper,
+.about-me2 {
+  position: absolute;
+  width: 549px;
+  height: 103px;
+}
+.about-me2 {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.about-me-wrapper {
+  top: 137px;
+  left: 118px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+}
+.dr,
+.prof {
+  font-family: var(--font-poppins);
+}
+.dr {
+  font-weight: 600;
+}
+.prof-dr-c-lakshminarayana-is {
+  margin: 0;
+}
+.prof-dr-c-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 1113px;
+  height: 884px;
+}
+.prof-dr-c-lakshminarayana-is-wrapper {
+  position: absolute;
+  top: 717px;
+  left: 128px;
+  width: 1113px;
+  height: 884px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-200);
+}
+.made-by-dranzer {
+  position: absolute;
+  height: 27.78%;
+  width: 39.1%;
+  top: 72.22%;
+  left: 60.9%;
+  display: inline-block;
+  font-weight: 700;
+}
+.follow-me-on {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 226px;
+  flex-shrink: 0;
+}
+.follow-me-on-wrapper {
+  position: absolute;
+  height: 38.84%;
+  width: 44.1%;
+  top: -4.57%;
+  right: 27.95%;
+  bottom: 65.73%;
+  left: 27.95%;
+  border-radius: 10px;
+  background-color: var(--color-royalblue-100);
+  display: flex;
+  flex-direction: row;
+  padding: 12px var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.div {
+  position: absolute;
+  height: 29.7%;
+  width: 5.05%;
+  top: 0;
+  left: 58.08%;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+}
+.fb2octdenoiserbeauty-002-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.facebook,
+.instagram,
+.linkedin {
+  position: absolute;
+  height: 82.54%;
+  width: 13.13%;
+  top: 8.73%;
+  right: 68.06%;
+  bottom: 8.73%;
+  left: 18.81%;
+}
+.instagram,
+.linkedin {
+  height: 85.71%;
+  width: 13.76%;
+  right: 52.65%;
+  bottom: 5.56%;
+  left: 33.59%;
+}
+.linkedin {
+  height: 76.19%;
+  width: 13.89%;
+  top: 11.11%;
+  right: 21.34%;
+  bottom: 12.7%;
+  left: 64.77%;
+}
+.yt2octdenoiserbeauty-002-copy-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.twitter,
+.youtube {
+  position: absolute;
+  width: 14.14%;
+}
+.youtube {
+  height: 88.89%;
+  top: 3.17%;
+  right: 0;
+  bottom: 7.94%;
+  left: 85.86%;
+  display: none;
+}
+.twitter {
+  height: 80.95%;
+  top: 8.73%;
+  right: 36.87%;
+  bottom: 10.32%;
+  left: 48.99%;
+}
+.discord,
+.dribbble {
+  position: absolute;
+  height: 82.54%;
+  width: 13.13%;
+  top: 5.56%;
+  right: 26.26%;
+  bottom: 11.9%;
+  left: 60.61%;
+  display: none;
+}
+.dribbble {
+  height: 76.98%;
+  width: 11.36%;
+  top: 9.52%;
+  right: 39.02%;
+  bottom: 13.49%;
+  left: 49.62%;
+}
+.github-2950150-2447911-1-icon {
+  position: absolute;
+  height: 100%;
+  width: 13.51%;
+  top: 0;
+  right: 12.75%;
+  bottom: 0;
+  left: 73.74%;
+  border-radius: 92px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.component-22,
+.socialmedia {
+  position: absolute;
+  height: 62.38%;
+  width: 100%;
+  top: 37.62%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.component-22 {
+  height: 58.89%;
+  width: 84.33%;
+  top: 0;
+  right: 15.67%;
+  bottom: 41.11%;
+  text-align: left;
+  font-size: var(--heading-3-size);
+  color: var(--color-gray-100);
+  font-family: var(--font-work-sans);
+}
+.component-23,
+.made-by-dranzer-labs-get-in-t-parent {
+  position: absolute;
+  height: 127.96%;
+  width: 69.44%;
+  top: 7.58%;
+  right: 0.47%;
+  bottom: -35.55%;
+  left: 30.09%;
+}
+.component-23 {
+  height: 10.53%;
+  width: 77.67%;
+  top: 86.44%;
+  right: 16.11%;
+  bottom: 3.03%;
+  left: 6.22%;
+  text-align: right;
+}
+.made-by-dranzer-container {
+  position: absolute;
+  height: 3.85%;
+  width: 21.01%;
+  top: 96.2%;
+  left: 76.43%;
+  display: inline-block;
+  font-weight: 700;
+  text-align: right;
+}
+.about-me1,
+.group-1-1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.about-me1 {
+  width: 99.78%;
+  right: 0.22%;
+  background-color: var(--color-white);
+}
+.group-1-1 {
+  width: 100%;
+  right: 0;
+  border-radius: var(--br-xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-1-1-wrapper {
+  position: absolute;
+  height: 18.08%;
+  width: 33.02%;
+  top: 15.61%;
+  right: 58%;
+  bottom: 66.31%;
+  left: 8.98%;
+}
+.samar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.in,
+.samar-wrapper {
+  position: relative;
+  width: 335px;
+  height: 54px;
+}
+.in {
+  font-size: var(--heading-4-size);
+  display: inline-block;
+  color: var(--color-blueviolet);
+  width: 48px;
+  height: 27px;
+  flex-shrink: 0;
+}
+.logo {
+  position: absolute;
+  height: 2.77%;
+  width: 27.98%;
+  top: 0.82%;
+  right: 67.49%;
+  bottom: 96.4%;
+  left: 4.53%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  cursor: pointer;
+  font-size: var(--font-size-17xl);
+  color: var(--color-midnightblue);
+}
+.projects {
+  width: 14.29%;
+  top: 5.88%;
+  left: 55.29%;
+  cursor: pointer;
+}
+.about-me3,
+.other-works,
+.projects,
+.publication {
+  position: absolute;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+}
+.about-me3 {
+  height: 82.35%;
+  width: 16.97%;
+  top: 5.88%;
+  left: 0;
+}
+.other-works,
+.publication {
+  cursor: pointer;
+}
+.publication {
+  height: 82.35%;
+  width: 20%;
+  top: 5.88%;
+  left: 27.06%;
+}
+.other-works {
+  width: 22.35%;
+  top: 0;
+  left: 77.65%;
+  color: var(--color-black);
+}
+.projects-parent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.about-me-inner {
+  position: absolute;
+  top: 26px;
+  left: 511px;
+  width: 611px;
+  height: 34px;
+  font-size: var(--font-size-2xl);
+}
+.connect-with-me {
+  position: relative;
+  text-transform: capitalize;
+}
+.nav-cta {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-royalblue-100);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-mid);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.nav-cta-wrapper {
+  position: absolute;
+  top: 15px;
+  left: 1150.5px;
+  width: 192px;
+  height: 47px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.about-me {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1369px;
+  height: 1947px;
+}
+.about-me-parent {
+  position: relative;
+  width: 100%;
+  height: 1947px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}
